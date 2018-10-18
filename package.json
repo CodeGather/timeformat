@@ -1,0 +1,27 @@
+{
+  "name": "timeformat",
+  "version": "1.0.0",
+  "description": "一个格式化时间的插件，时间戳之间的转换",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CodeGather/timeformat.git"
+  },
+  "keywords": [
+    "day",
+    "time",
+    "stamp",
+    "时间戳",
+    "格式化",
+    "转换"
+  ],
+  "author": "21克的爱情",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeGather/timeformat/issues"
+  },
+  "homepage": "https://github.com/CodeGather/timeformat#readme"
+}
